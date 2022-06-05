@@ -13,7 +13,7 @@
     <PackageReference Include="System.Net.Http.Json" Version="6.0.0" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Shared\TelerikBlazorApp.Shared.csproj" />
+    <ProjectReference Include="..\..\Components\Components.csproj" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Telerik.UI.for.Blazor.Trial" Version="3.3.0" />

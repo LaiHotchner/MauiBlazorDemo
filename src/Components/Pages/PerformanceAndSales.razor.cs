@@ -1,10 +1,8 @@
-﻿using System.Collections.Generic;
-using System.Net.Http.Json;
-using System.Threading.Tasks;
+﻿using System.Net.Http.Json;
 using Telerik.Blazor.Components;
 using TelerikBlazorApp.Shared.Models.Sales;
 
-namespace TelerikBlazorApp.Client.Pages
+namespace Components.Pages
 {
     public partial class PerformanceAndSales
     {

@@ -1,14 +1,11 @@
-﻿using System.Collections.Generic;
-using System.Linq;
-using System.Net.Http.Json;
-using System.Threading.Tasks;
+﻿using System.Net.Http.Json;
 using Telerik.Blazor.Components;
 using Telerik.DataSource;
 using Telerik.DataSource.Extensions;
 using TelerikBlazorApp.Shared.Models;
 using TelerikBlazorApp.Shared.Models.Sales;
 
-namespace TelerikBlazorApp.Client.Pages
+namespace Components.Pages
 {
     public partial class Products
     {

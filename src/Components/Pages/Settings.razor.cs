@@ -1,9 +1,7 @@
-﻿using Microsoft.AspNetCore.Components.Forms;
-using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
+using Microsoft.AspNetCore.Components.Forms;
 
-namespace TelerikBlazorApp.Client.Pages
+namespace Components.Pages
 {
     public partial class Settings
     {
