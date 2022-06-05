@@ -139,7 +139,7 @@
                                     <GridColumn Field="@nameof(Employee.FullName)" Title="Contact Name">
                                         <Template>
                                             @{
-                                                <span class='k-avatar k-avatar-circle k-avatar-image k-avatar-sm'><img src='@($"/assets/employees/{(context as Employee).ImgId}.jpg")' /></span>
+                                                <span class='k-avatar k-avatar-circle k-avatar-image k-avatar-sm'><img src='@($"/_content/Components/assets/employees/{(context as Employee).ImgId}.jpg")' /></span>
                                                 var name = (context as Employee).FullName;
                                                 <span>@name</span>
                                             }
