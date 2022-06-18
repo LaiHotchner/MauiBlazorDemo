@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TelerikBlazorApp\Shared\TelerikBlazorApp.Shared.csproj" />
+    <ProjectReference Include="..\BlazorWebAssemblyDemo\Shared\BlazorWebAssemblyDemo.Shared.csproj" />
   </ItemGroup>
 
 </Project>
