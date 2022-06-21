@@ -12,7 +12,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Client\BlazorWebAssemblyDemo.Client.csproj" />
-    <ProjectReference Include="..\Shared\BlazorWebAssemblyDemo.Shared.csproj" />
   </ItemGroup>
 
 
